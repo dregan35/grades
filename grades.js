@@ -49,7 +49,9 @@
 
 // console.log("lowest score in the class", bottom);
 // console.log("highest score in the class", high);
-
+// started with an scores array and declared the variable a-f, then wrote a for loop to go thru the scores
+// get the scores greater than 90 and assign them to the var a and on to the other var b-f, console logged a-f, used a sort function
+// so the score array can return the lowest and highest scores 
 
 var scores = [82, 71, 95, 55, 98, 89, 72, 78, 84, 64, 58, 87, 100];
 var a = 0;
